@@ -4,7 +4,7 @@
 body {
   color: $clr--dark;
   font-family: $font-primary;
-  font-size: 2rem;
+  font-size: 1.2rem;
   overflow-x: hidden;
   line-height: 1.4;
 }
@@ -103,7 +103,7 @@ img {
 
 .container {
   width: 100%;
-  max-width: 120rem;
+  max-width: 100rem;
   margin: 0 auto;
   padding: 0 5rem;
 }
